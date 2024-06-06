@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="favicon.png" />
 ---
 layout: default
 title: Another page
