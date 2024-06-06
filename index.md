@@ -1,7 +1,4 @@
----
-layout: default
----
-<table>
+<table align="center">
   <tr>
     <td>
       <select>
