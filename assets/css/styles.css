@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+select {
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+}
