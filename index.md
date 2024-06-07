@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<form>
     <link rel="stylesheet" href="styles.css">
     <div class="center">
         <table>
@@ -40,3 +41,4 @@ layout: default
             </tr>
         </table>
     </div> 
+    </form>
