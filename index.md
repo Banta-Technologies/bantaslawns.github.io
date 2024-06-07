@@ -1,4 +1,4 @@
-   <!--- <div class="center">
+    <div class="center">
         <table class="center">
             <tr>
                 <td>
@@ -35,4 +35,4 @@
                 </td>
             </tr>
         </table>
-    </div> --->
+    </div> 
