@@ -1,3 +1,6 @@
+---
+layout: default
+---
     <link rel="stylesheet" href="styles.css">
     <div class="center">
         <table>
