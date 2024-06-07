@@ -1,5 +1,5 @@
    <div class="center">
-        <table>
+        <table class="center">
             <tr>
                 <td>
                     <select>
