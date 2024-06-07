@@ -1,6 +1,19 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+</style>
+</head>
+<body>
 <form>
     <link rel="stylesheet" href="styles.css">
     <div class="center">
@@ -42,3 +55,6 @@ layout: default
         </table>
     </div> 
     </form>
+
+</body>
+</html>
